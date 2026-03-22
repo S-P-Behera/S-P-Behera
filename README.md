@@ -13,10 +13,14 @@ I am looking for entry-level opportunities where I can apply my analytical think
 
 ### 🧠 Skills
 #### 📊 Data Analytics & Visualization
-Data Cleaning and Data Preparation
+Data Cleaning and Data Preparation  
+
 Exploratory Data Analysis (EDA)
+
 Dashboard Design and Development
+
 Business Data Interpretation
+
 KPI and Performance Analysis
 
 #### 🛠️ Tools & Technologies
