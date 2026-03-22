@@ -38,6 +38,7 @@ I am looking for entry-level opportunities where I can apply my analytical think
 
 ### 📫 Contact Me
 LinkedIn: www.linkedin.com/in/satyaprakash-behera
+
 Email: satyaprakashb43@gmail.com
 
 #### ⭐ If you like my work, feel free to explore my repositories and connect with me.
