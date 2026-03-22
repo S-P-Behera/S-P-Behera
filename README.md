@@ -19,13 +19,13 @@ Dashboard Design and Development
 Business Data Interpretation
 KPI and Performance Analysis
 
-####🛠️ Tools & Technologies
+#### 🛠️ Tools & Technologies
 Power BI (Interactive Dashboards, DAX Basics)
 Advanced Microsoft Excel (Pivot Tables, Lookup Functions, Charts)
 SQL (Data Querying, Joins, Aggregations)
 Python – Basic (Pandas, NumPy – Learning Stage)
 
-####💼 Business & Analytical Skills
+#### 💼 Business & Analytical Skills
 Business Problem Solving
 Data-Driven Decision Making
 Requirement Understanding
