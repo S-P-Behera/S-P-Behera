@@ -13,33 +13,33 @@ I am looking for entry-level opportunities where I can apply my analytical think
 
 ### 🧠 Skills
 #### 📊 Data Analytics & Visualization
-Data Cleaning and Data Preparation  
+* Data Cleaning and Data Preparation  
 
-Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
 
-Dashboard Design and Development
+* Dashboard Design and Development
 
-Business Data Interpretation
+* Business Data Interpretation
 
-KPI and Performance Analysis
+* KPI and Performance Analysis
 
 #### 🛠️ Tools & Technologies
-Power BI (Interactive Dashboards, DAX Basics)
+* Power BI (Interactive Dashboards, DAX Basics)
 
-Advanced Microsoft Excel (Pivot Tables, Lookup Functions, Charts)
+* Advanced Microsoft Excel (Pivot Tables, Lookup Functions, Charts)
 
-SQL (Data Querying, Joins, Aggregations)
+* SQL (Data Querying, Joins, Aggregations)
 
-Python – Basic (Pandas, NumPy – Learning Stage)
+* Python – Basic (Pandas, NumPy – Learning Stage)
 
 #### 💼 Business & Analytical Skills
-Business Problem Solving
+* Business Problem Solving
 
-Data-Driven Decision Making
+* Data-Driven Decision Making
 
-Requirement Understanding
+* Requirement Understanding
 
-Insight Generation and Reporting
+* Insight Generation and Reporting
 
 
 
