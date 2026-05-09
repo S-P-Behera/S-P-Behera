@@ -1,45 +1,27 @@
-# Hi there 
+# Hi there, I'm Satyaprakash 👋
 
-## I'm Satyaprakash, a Business Analytics fresher based in Hyderabad.
+**MBA (Business Analytics) · Aspiring Data Analyst · Hyderabad**
 
- MBA (Business Analytics)
- Aspiring Data Analyst 
+> Passionate about turning raw data into actionable insights. Currently building expertise in data analysis, dashboards, and business problem-solving — actively seeking entry-level analyst roles.
 
-###  About Me
-I am a passionate Business Analyst who enjoys working with data to discover insights and support decision-making.
-I am currently building my skills in data analysis, dashboard development, and business problem solving.
+---
 
-I am looking for entry-level opportunities where I can apply my analytical thinking, technical skills, and business understanding to create real impact.
+###  Skills & Tools
 
-###  Skills
-####  Data Analytics & Visualization
-* Data Cleaning and Data Preparation  
+| Analytics | Tools | Business |
+|-----------|-------|----------|
+| Data Cleaning & EDA | Power BI · DAX | Problem Solving |
+| KPI & Performance Analysis | Advanced Excel · SQL | Data-Driven Decisions |
+| Insight Generation | Python (Pandas, NumPy) | Reporting & Storytelling |
 
-* Exploratory Data Analysis (EDA)
+---
 
-* KPI and Performance Analysis
+###  Connect with Me
 
-####  Tools & Technologies
-* Power BI (Interactive Dashboards, DAX Basics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyaprakash%20Behera-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyaprakash-behera)
+[![Email](https://img.shields.io/badge/Email-satyaprakashb43%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:satyaprakashb43@gmail.com)
 
-* Advanced Microsoft Excel (Pivot Tables, Lookup Functions, Charts)
+---
 
-* SQL (Data Querying, Joins, Aggregations)
-
-* Python – Basic (Pandas, NumPy – Learning Stage)
-
-####  Business & Analytical Skills
-* Business Problem Solving
-
-* Data-Driven Decision Making
-
-* Insight Generation and Reporting
-
-
-###  Contact Me
-LinkedIn: www.linkedin.com/in/satyaprakash-behera
-
-Email: satyaprakashb43@gmail.com
-
-#### * If you like my work, feel free to explore my repositories and connect with me.
+*Feel free to explore my repositories and connect!* ⭐
 
